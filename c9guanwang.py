@@ -88,8 +88,8 @@ def main():
 if __name__ == '__main__':
     print('')
     html = get_page(url)
-    old_list = parse_page(html)
-    #old_list = [1,2]
+    #old_list = parse_page(html)
+    old_list = [1,2]
     main()
     time.sleep(60)
     print('')
