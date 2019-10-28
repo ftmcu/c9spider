@@ -9,7 +9,7 @@ import zmail
 '''
 host_server = 'smtp.163.com'
 sender_qq = 'legend0002@163.com'
-pwd = 'wsfttc1990'
+pwd = ''
 sender_qq_mail = 'legend0002@163.com'
 receiver = 'legend0002@qq.com'
 '''
