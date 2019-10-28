@@ -8,10 +8,10 @@ import zmail
 
 '''
 host_server = 'smtp.163.com'
-sender_qq = 'legend0002@163.com'
+sender_qq = '@163.com'
 pwd = ''
-sender_qq_mail = 'legend0002@163.com'
-receiver = 'legend0002@qq.com'
+sender_qq_mail = '@163.com'
+receiver = '@qq.com'
 '''
 
 
